@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mains.unity
+    guid: 51d9b2f6500a507418704e67031f4b69
+  - enabled: 1
+    path: Assets/Scenes/scan.unity
+    guid: 97438853571cd4a4388ac103e6a8ce5b
+  - enabled: 1
+    path: Assets/Scenes/Car_Model.unity
+    guid: 8ae3f64f943bab847b59d8ca931ddf2c
+  - enabled: 1
+    path: Assets/Scenes/Ritz.unity
+    guid: 43e1d1dfea204b644b654d49cc049ad7
+  m_configObjects: {}
